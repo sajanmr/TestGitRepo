@@ -1,2 +1,7 @@
 TEsting git commands
+
 Testing conflict
+My first commit
+My second commit
+My third commit
+
